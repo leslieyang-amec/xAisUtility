@@ -1,2 +1,2 @@
-# AMEC AIS AtoN Configuration Utility
+# AIS Configuration Utility
 
