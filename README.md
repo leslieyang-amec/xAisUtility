@@ -1,2 +1,2 @@
-# AIS Configuration Utility
+# AIS System Configurator
 
