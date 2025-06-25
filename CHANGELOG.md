@@ -5,13 +5,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [3.73-T4] - 2025-06-04
+## [3.73-T5] - 2025-06-25
+
+### Added
+
+- Check the integrity of the firmware upgrade file content.
+
+### Fixed
+
+- Querying device data during firmware upgrade.
+
+## [3.73-T4](https://github.com/leslieyang-amec/xAisUtility/releases/tag/v3.73-T4) - 2025-06-04
 
 ### Added
 
 - Enhance system stability
   
-## [3.73-T3] - 2025-05-28
+## [3.73-T3](https://github.com/leslieyang-amec/xAisUtility/releases/tag/v3.73-T3) - 2025-05-28
 
 ### Added
 
@@ -26,7 +36,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add scrollability to some pages, allowing them to display all of the widgets on the small display device.
 
-## [3.73-T2] - 2025-05-08
+## [3.73-T2](https://github.com/leslieyang-amec/xAisUtility/releases/tag/v3.73-T2) - 2025-05-08
 
 ### Added
 
@@ -43,7 +53,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - AIS AtoN, configure the lantern status setting with the wrong value.
 
-## [3.73-T1] - 2025-04-09
+## [3.73-T1](https://github.com/leslieyang-amec/xAisUtility/releases/tag/v3.73-T1) - 2025-04-09
 
 ### Added
 
