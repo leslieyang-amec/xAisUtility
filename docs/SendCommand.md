@@ -6,7 +6,7 @@
 - Connect the USB cable between the computer and the AIS device.
 - Download the **AIS Configuration Tool** software on the computer.
 
-## command via AIS Configuration Tool
+## Send command via AIS Configuration Tool
 
 ### Run `AIS_Configuration_Tool.bat`.
  ![Alt text](./pic/RecordLog/Utility_HomePage.png)
@@ -22,3 +22,4 @@
 
 ### Press `Send Command` button.
 ![Alt text](./pic/SerialData_page_SendCommand.png)
+
