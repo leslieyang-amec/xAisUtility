@@ -18,7 +18,7 @@ System Setting > Privacy & Security > Security
 
 Select "Anywhere" from the "Allow applications from" dropdown menu for the option to fully appear and take effect.
 
-![Alt text](./pic/macOS_AllowAppFrom.png)
+![Alt text](./docs/pic/macOS_AllowAppFrom.png)
 
 ### 2. Remove quaratine
 
